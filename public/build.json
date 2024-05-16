@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover_img": "https://i.ibb.co/WpzpXBL/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "author_name": "John Doe",
+      "title": "The Mystery of the Lost City",
+      "author_img": "https://i.ibb.co/28DtZKV/person-1.png",
+      "reading_time": "25 min",
+      "hashtags": ["adventure", "mystery", "exploration"],
+      "date": "2024-05-16"
+    },
+    {
+      "id": "002",
+      "cover_img": "https://i.ibb.co/tpqbt8R/woman-beach-with-her-baby-enjoying-sunset.jpg",
+      "author_name": "Jane Smith",
+      "title": "Cooking with Love",
+      "author_img": "https://i.ibb.co/M86j7mh/person-2.png",
+      "reading_time": "15 min",
+      "hashtags": ["cooking", "recipes", "food"],
+      "date": "2024-05-15"
+    },
+    {
+      "id": "003",
+      "cover_img": "https://i.ibb.co/hfk2k7x/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
+      "author_name": "Alex Johnson",
+      "title": "The Art of Coding",
+      "author_img": "https://i.ibb.co/xjydmyK/person-3.png",
+      "reading_time": "30 min",
+      "hashtags": ["programming", "coding", "technology"],
+      "date": "2024-05-14"
+    },
+    {
+      "id": "004",
+      "cover_img": "https://i.ibb.co/hfk2k7x/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
+      "author_name": "Emily Brown",
+      "title": "Gardening Tips for Beginners",
+      "author_img": "https://i.ibb.co/xjydmyK/person-3.png",
+      "reading_time": "20 min",
+      "hashtags": ["gardening", "tips", "plants"],
+      "date": "2024-05-13"
+    },
+    {
+      "id": "005",
+      "cover_img": "https://i.ibb.co/hfk2k7x/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
+      "author_name": "Michael Clark",
+      "title": "The Power of Mindfulness",
+      "author_img": "https://i.ibb.co/xjydmyK/person-3.png",
+      "reading_time": "18 min",
+      "hashtags": ["mindfulness", "meditation", "wellness"],
+      "date": "2024-05-12"
+    }
+  ]
+  
