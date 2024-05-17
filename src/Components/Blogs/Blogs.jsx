@@ -15,7 +15,7 @@ const Blogs = () => {
 
 
     return (
-        <div className="mx-32">
+        <div className=" w-2/3">
            {
             blogs.map((blog,idx) => <Blog blog={blog}
             key={idx}></Blog>)
