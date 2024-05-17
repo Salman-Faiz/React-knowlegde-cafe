@@ -1,4 +1,5 @@
 import { BsFillBookmarksFill } from "react-icons/bs";
+import PropTypes from 'prop-types';
 
 const Blog = ({ blog,handleBookmarks }) => {
     const { id, cover_img, author_name, title, author_img, reading_time, hashtags, date } = blog;
@@ -31,5 +32,10 @@ const Blog = ({ blog,handleBookmarks }) => {
         </div>
     );
 };
+Blog.propTypes ={
+    blog:PropTypes.object.isRequired,
+    handleBookmarks:PropTypes.func
+
+}
 
 export default Blog;

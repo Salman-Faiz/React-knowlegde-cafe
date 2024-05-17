@@ -13,7 +13,7 @@ function App() {
   const handleBookmarks = (blog) =>{
     const newBookmarks = [...bookmarks,blog]
     setBookmarks(newBookmarks);
-    console.log(newBookmarks);
+    // console.log(newBookmarks);
 }
 
 
@@ -22,7 +22,7 @@ function App() {
      <Header></Header>
    <div className='flex justify-between mx-32 gap-4'>
      <Blogs handleBookmarks={handleBookmarks}></Blogs>
-     <Bookmarks></Bookmarks>
+     <Bookmarks bookmarks={bookmarks}></Bookmarks>
    </div>
      
    
